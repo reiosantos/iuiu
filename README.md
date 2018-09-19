@@ -30,3 +30,16 @@
     Output: The boy is going to school.
 
 10. Write a program to create new string with first 3 characters are in lower case. If the string length is less than 3 convert all the characters in upper case.
+
+
+# How do I run these programs?
+
+execute in your command line
+
+> php file_name
+
+##### eg. To run question 1.
+
+```bash
+$ php question1/DisplayTime.php
+```
